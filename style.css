@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+label{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 18px;
+}
+
+
+canvas{
+border: 20px slid white;
+border-radius: 50%;
+margin-top: 130px;
+}
